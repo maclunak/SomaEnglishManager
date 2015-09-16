@@ -1,0 +1,14 @@
+{
+  "name": "bans",
+  "version": "0.0.0",
+  "description": "bans test node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
