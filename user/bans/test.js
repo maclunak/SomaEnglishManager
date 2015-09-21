@@ -1,2 +1,4 @@
 var a = "1";
-print a;
+function test ( {
+	error;
+}
